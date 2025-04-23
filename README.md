@@ -83,11 +83,13 @@ endmodule
 
 
 **RTL realization Output:** 
-![WhatsApp Image 2025-04-21 at 2 34 32 PM](https://github.com/user-attachments/assets/99928a87-3549-4ad5-acc3-f716d21a783b)
+![Screenshot 2025-04-23 154137](https://github.com/user-attachments/assets/3e0620c2-c32a-497f-95c2-91ec1efe1c0a)
+
 
 
 **RTL**
-![WhatsApp Image 2025-04-21 at 2 34 19 PM (1)](https://github.com/user-attachments/assets/a81f7eae-33b6-4cf7-aff6-b51f3d0482d1)
+![Screenshot 2025-04-23 154023](https://github.com/user-attachments/assets/0a106e86-90cd-4a96-9f5f-a455289c5307)
+
 
 
 **Result:**
