@@ -94,4 +94,7 @@ endmodule
 
 **Result:**
 
+Thus the outputs of Basic Logic Gates are verified by simulating and synthesizing the VERILOG code.
+
+
 
